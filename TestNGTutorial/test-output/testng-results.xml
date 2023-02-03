@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="11" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-11T18:21:12 CST" name="Loan Department" finished-at="2023-01-11T18:21:12 CST" duration-ms="80">
+    <groups>
+    </groups>
+    <test started-at="2023-01-11T18:21:12 CST" name="Personal Loan" finished-at="2023-01-11T18:21:12 CST" duration-ms="31">
+      <class name="test.day4">
+        <test-method signature="MObileloginCarLoan()[pri:0, instance:test.day4@7690781]" started-at="2023-01-11T18:21:12 CST" name="MObileloginCarLoan" finished-at="2023-01-11T18:21:12 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MObileloginCarLoan -->
+        <test-method signature="WebloginCarLoan()[pri:0, instance:test.day4@7690781]" started-at="2023-01-11T18:21:12 CST" name="WebloginCarLoan" finished-at="2023-01-11T18:21:12 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginCarLoan -->
+        <test-method signature="loginAPICarLoan()[pri:0, instance:test.day4@7690781]" started-at="2023-01-11T18:21:12 CST" name="loginAPICarLoan" finished-at="2023-01-11T18:21:12 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPICarLoan -->
+      </class> <!-- test.day4 -->
+      <class name="test.day2">
+        <test-method signature="ploan()[pri:0, instance:test.day2@26275bef]" started-at="2023-01-11T18:21:12 CST" name="ploan" finished-at="2023-01-11T18:21:12 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ploan -->
+      </class> <!-- test.day2 -->
+      <class name="test.day1">
+        <test-method signature="Demo()[pri:0, instance:test.day1@1bb266b3]" started-at="2023-01-11T18:21:12 CST" name="Demo" finished-at="2023-01-11T18:21:12 CST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- test.day1 -->
+    </test> <!-- Personal Loan -->
+    <test started-at="2023-01-11T18:21:12 CST" name="Car Loan" finished-at="2023-01-11T18:21:12 CST" duration-ms="4">
+      <class name="test.day3">
+        <test-method signature="MobileloginHomeLoan()[pri:0, instance:test.day3@2b48a640]" started-at="2023-01-11T18:21:12 CST" name="MobileloginHomeLoan" finished-at="2023-01-11T18:21:12 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileloginHomeLoan -->
+        <test-method signature="MobilelogoutHomeLoan()[pri:0, instance:test.day3@2b48a640]" started-at="2023-01-11T18:21:12 CST" name="MobilelogoutHomeLoan" finished-at="2023-01-11T18:21:12 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobilelogoutHomeLoan -->
+        <test-method signature="MobilesigninHomeLoan()[pri:0, instance:test.day3@2b48a640]" started-at="2023-01-11T18:21:12 CST" name="MobilesigninHomeLoan" finished-at="2023-01-11T18:21:12 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobilesigninHomeLoan -->
+        <test-method signature="WebloginHomeLoan()[pri:0, instance:test.day3@2b48a640]" started-at="2023-01-11T18:21:12 CST" name="WebloginHomeLoan" finished-at="2023-01-11T18:21:12 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginHomeLoan -->
+      </class> <!-- test.day3 -->
+    </test> <!-- Car Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
